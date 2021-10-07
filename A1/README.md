@@ -1,4 +1,6 @@
-# DATA512
+# DATA 512 A1
+
+The code in this folder is for Assignment #1 in DATA 512. Below is the important information relating to the data and code used for this assignment.
 ## Reproducing Analysis Steps
 1. Modify relevant constant variables in the notebook cell with all the string variables so the files get output in the right place on your machine.
 2. Run all cells in order from top to bottom. 
